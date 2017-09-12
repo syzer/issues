@@ -18,10 +18,10 @@ issues
 
 ## development
 
-this is 20 min hack, but:
+this tool is 20 min hack, but:
 
 ```bash
-clone https://github.com/syzer/issues.git
+git clone https://github.com/syzer/issues.git
 cd
 go test
 ```
